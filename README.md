@@ -2752,7 +2752,7 @@ Other Style Guides
       inventorOf,
     );
 
-    // good (note that a comma must not appear after a "rest" element)
+    // good (note that a comma must not appear after a "spread" element)
     createHero(
       firstName,
       lastName,
